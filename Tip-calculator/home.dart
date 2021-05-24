@@ -2,7 +2,7 @@
 
 
 import 'package:first_app/UI/util/hexcolor.dart';
-import 'package:first_app/model/question.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
